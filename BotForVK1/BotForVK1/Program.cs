@@ -20,7 +20,6 @@ namespace BotForVK1
             data.Params["v"] = "5.130";
             data.Params["chat_id"] = "58";
             //айди чата нужно писать вот выше
-            data.Params["fields"] = "nickname";
 
             var c =Function.TakeInf("https://api.vk.com/method/messages.getChat/", data.Params);
             Console.WriteLine(c);

@@ -1,0 +1,16 @@
+C:\Users\Black\source\repos\BotForVK1\BotForVK1\bin\Debug\net5.0\BotForVK1.exe
+C:\Users\Black\source\repos\BotForVK1\BotForVK1\bin\Debug\net5.0\BotForVK1.deps.json
+C:\Users\Black\source\repos\BotForVK1\BotForVK1\bin\Debug\net5.0\BotForVK1.runtimeconfig.json
+C:\Users\Black\source\repos\BotForVK1\BotForVK1\bin\Debug\net5.0\BotForVK1.runtimeconfig.dev.json
+C:\Users\Black\source\repos\BotForVK1\BotForVK1\bin\Debug\net5.0\BotForVK1.dll
+C:\Users\Black\source\repos\BotForVK1\BotForVK1\bin\Debug\net5.0\ref\BotForVK1.dll
+C:\Users\Black\source\repos\BotForVK1\BotForVK1\bin\Debug\net5.0\BotForVK1.pdb
+C:\Users\Black\source\repos\BotForVK1\BotForVK1\obj\Debug\net5.0\BotForVK1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Black\source\repos\BotForVK1\BotForVK1\obj\Debug\net5.0\BotForVK1.AssemblyInfoInputs.cache
+C:\Users\Black\source\repos\BotForVK1\BotForVK1\obj\Debug\net5.0\BotForVK1.AssemblyInfo.cs
+C:\Users\Black\source\repos\BotForVK1\BotForVK1\obj\Debug\net5.0\BotForVK1.csproj.CoreCompileInputs.cache
+C:\Users\Black\source\repos\BotForVK1\BotForVK1\obj\Debug\net5.0\BotForVK1.dll
+C:\Users\Black\source\repos\BotForVK1\BotForVK1\obj\Debug\net5.0\ref\BotForVK1.dll
+C:\Users\Black\source\repos\BotForVK1\BotForVK1\obj\Debug\net5.0\BotForVK1.pdb
+C:\Users\Black\source\repos\BotForVK1\BotForVK1\obj\Debug\net5.0\BotForVK1.genruntimeconfig.cache
+C:\Users\Black\source\repos\BotForVK1\BotForVK1\obj\Debug\net5.0\BotForVK1.csprojAssemblyReference.cache

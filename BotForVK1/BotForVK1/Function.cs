@@ -20,7 +20,7 @@ namespace BotForVK1
                 var c = client.PostAsync(address, content).Result;
                 string Inf = c.Content.ReadAsStringAsync().Result;
                 //Console.WriteLine(Inf);
-                if (Inf.Contains("Миша") && Inf.Contains("Кольцов"))
+                if (Inf.Contains("349716005"))
                 {
                     bool d = true;
                     Kick(d);
@@ -71,7 +71,6 @@ namespace BotForVK1
                     data.Params["v"] = "5.81";
                     data.Params["chat_id"] = "49";
                     //айди чата
-                    data.Params["fields"] = "nickname";
                     Thread.Sleep(900000);
                     var b = TakeInf("https://api.vk.com/method/messages.getChat/", data.Params);
                 }
@@ -95,7 +94,6 @@ namespace BotForVK1
                 data.Params["v"] = "5.81";
                 data.Params["chat_id"] = "49";
                 //айди чата
-                data.Params["fields"] = "nickname";
                 Thread.Sleep(900000);
                 var b = TakeInf("https://api.vk.com/method/messages.getChat/", data.Params);
             }
